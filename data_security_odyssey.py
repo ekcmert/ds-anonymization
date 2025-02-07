@@ -92,7 +92,7 @@ def l_attack():
         race_dropdown,
         attack_button,
         output
-    ], layout=widgets.Layout(width='30%', margin='0', align_items='flex-start'))
+    ], layout=widgets.Layout(width='60%', margin='0', align_items='flex-start'))
 
     display(ui)
 
@@ -209,7 +209,7 @@ def t_attack():
         race_dropdown,
         attack_button,
         output
-    ], layout=widgets.Layout(width='30%', margin='0', align_items='flex-start'))
+    ], layout=widgets.Layout(width='60%', margin='0', align_items='flex-start'))
 
     display(ui)
 
@@ -330,7 +330,7 @@ def k_attack():
         race_dropdown,
         attack_button,
         output
-    ], layout=widgets.Layout(width='30%', margin='0', align_items='flex-start'))
+    ], layout=widgets.Layout(width='60%', margin='0', align_items='flex-start'))
 
     display(ui)
 
